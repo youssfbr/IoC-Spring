@@ -1,4 +1,4 @@
-package com.github.youssfbr.money;
+package com.github.youssfbr.aulaid;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
